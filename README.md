@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/github/languages/top/silent-lad/VueSolitaire.svg">
 
 <img src="https://img.shields.io/github/issues/silent-lad/VueSolitaire.svg">
+  
 -------------
 # Closed version for promoters.
 ### 💻 Only for Windows 7/8/8.1/10

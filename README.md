@@ -16,7 +16,6 @@
 
 <img src="https://img.shields.io/github/issues/silent-lad/VueSolitaire.svg">
 -------------
-![alt-текст](https://images-na.ssl-images-amazon.com/images/I/8163qVOTUPL._AC_SY445_.jpg "Luminar4")
 # Closed version for promoters.
 ### 💻 Only for Windows 7/8/8.1/10
 #### Windows Tech Specs

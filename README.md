@@ -1,4 +1,3 @@
-<p align="center"> 
 # Luminar4-Advertising-Page
 
 </h2>
